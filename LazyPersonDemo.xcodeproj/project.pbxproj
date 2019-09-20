@@ -1091,7 +1091,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5EWQD3JR6H;
-				GCC_PREFIX_HEADER = /Users/yangxudong/Desktop/LazyPersonDemo/LazyPersonDemo/Tool/Header.h;
+				GCC_PREFIX_HEADER = /Users/yangxudong/Desktop/LazyPerson/LazyPersonDemo/Tool/Header.h;
 				INFOPLIST_FILE = LazyPersonDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1111,7 +1111,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5EWQD3JR6H;
-				GCC_PREFIX_HEADER = /Users/yangxudong/Desktop/LazyPersonDemo/LazyPersonDemo/Tool/Header.h;
+				GCC_PREFIX_HEADER = /Users/yangxudong/Desktop/LazyPerson/LazyPersonDemo/Tool/Header.h;
 				INFOPLIST_FILE = LazyPersonDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = (
